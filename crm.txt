@@ -1,0 +1,2 @@
+Managers frequently use the Customer Relationship Manager web application to store, retrieve and alter customer data. This project involves building a backend web application that allows for customer data creation, reading, updating, and deletion (CRUD).
+Spring, Hibernate, and HTML/CSS are used to create a web application. The adventure aims to learn how to make a backend web application. The Customer Relationship Manager will track all clients. Adding new customers, changing their information, and, if necessary, deleting them.
